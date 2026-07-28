@@ -1,1 +1,0 @@
-select First_Call_Resolution,count(Interaction_ID) as total_calls,round(avg(Call_Duration_Sec), 0) as avg_duration_seconds from interaction_logs group by First_Call_Resolution;
