@@ -113,7 +113,6 @@ File: `03_Dashboards_Report/Call_Center_Quality_Dashboard.pbix`
 - Average Handle Time by Performance Tier (bar chart)
 - KPI Card: Overall Average AHT (4.45 minutes)
 
-*(Screenshots below — to be added)*
 
 ![Page 1 - Performance and Customer Satisfaction Overview](screenshots/page1_performance_overview.png)
 
